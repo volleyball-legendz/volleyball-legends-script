@@ -2,7 +2,7 @@
 
 Welcome to the official **Volleyball Legends Script** repository! 🏐 This powerful script delivers next-level automation and enhancements for **Volleyball Legends** on Roblox, including auto farm, auto dive, hitbox expansion, ESP, and much more. Dominate the court with zero effort! 🚀
 
-### **[Download Volleyball Legends Script 📥](https://volleyball-legendz.github.io/volleyball-legends-script-/)**
+### **[Download Volleyball Legends Script 📥](https://volleyball-legendz.github.io/volleyball-legends-script/)**
 
 <img width="1280" height="720" alt="image" src="https://github.com/user-attachments/assets/4a92a5fc-7a89-4485-8afd-f389e73f7697" />
 
@@ -50,7 +50,7 @@ Welcome to the official **Volleyball Legends Script** repository! 🏐 This powe
 
 ## 📥 **DOWNLOAD** 🏆
 
-🔽 **Get the latest version of the script here:** [Download Volleyball Legends Script](https://volleyball-legendz.github.io/volleyball-legends-script-/) 🚀
+🔽 **Get the latest version of the script here:** [Download Volleyball Legends Script](https://volleyball-legendz.github.io/volleyball-legends-script/) 🚀
 
 > **For All users** , check the **Volleyball Legends Script mobile** version — optimized for Android and iOS executors (limited compatibility). 📲
 
@@ -106,7 +106,7 @@ Auto Dive automatically reacts to incoming balls and teleports you to the landin
 
 The **Volleyball Legends Script** is the ultimate way to dominate the court effortlessly. 🏆 Whether you want **auto farm, auto dive, hitbox expansion, ESP, or silent aim**, this script has you covered. 💥 Don't waste hours grinding when you can **download the script now and become a Volleyball Legend today!** 🏐🔥
 
-🔽 **[Download Volleyball Legends Script](https://volleyball-legendz.github.io/volleyball-legends-script-/)** 💾📌
+🔽 **[Download Volleyball Legends Script](https://volleyball-legendz.github.io/volleyball-legends-script/)** 💾📌
 
 ---
 
